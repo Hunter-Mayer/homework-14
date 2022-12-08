@@ -1,7 +1,7 @@
 # Hunter Mayer Homework Challenge 14
 
 ## Description
-Add here
+In progress homework in which I attempt to create a full stack tech blog. 
 
 ### Acceptance Criteria
 GIVEN a CMS-style blog site
@@ -76,7 +76,7 @@ Add here
 
 ### Deployed Repo
 
-Github Repo: Add here
+Github Repo: https://github.com/Hunter-Mayer/homework-14
 
 Heroku Link: Add here
 
