@@ -72,13 +72,13 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 ### Screenshot
 
-Add here
+To be added later
 
 ### Deployed Repo
 
 Github Repo: https://github.com/Hunter-Mayer/homework-14
 
-Heroku Link: Add here
+Heroku Link: To be added later
 
 ## Credits
 
